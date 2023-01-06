@@ -1,4 +1,4 @@
-# Fraud Detection with Decision Trees
+# Fraud Detection with Decision Tree
 
 This project aims to build a fraud detection model using decision trees. 
 
